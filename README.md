@@ -31,7 +31,7 @@ Welcome to **RamnetSolutions**, a modern and user-friendly travel agency website
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/Ramnetsolutions/RamnetSolutions.git  
+   git clone [https://github.com/Ramnetsolutions/RamnetSolutions.git](https://github.com/RamnetSolutions/Ramnetsolutions)  
    cd RamnetSolutions  
    ```  
 2. Open the project folder and run it on your favorite browser.  
