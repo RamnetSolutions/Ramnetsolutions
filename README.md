@@ -31,7 +31,7 @@ Welcome to **RamnetSolutions**, a modern and user-friendly travel agency website
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/YourGitHubUsername/RamnetSolutions.git  
+   git clone https://github.com/Ramnetsolutions/RamnetSolutions.git  
    cd RamnetSolutions  
    ```  
 2. Open the project folder and run it on your favorite browser.  
@@ -45,7 +45,7 @@ Welcome to **RamnetSolutions**, a modern and user-friendly travel agency website
 
 ## 💻 Deployment  
 
-The project is deployed and accessible at: [Your Deployment Link](#)  
+The project is deployed and accessible at: [https://ramnetsolutions.github.io/Ramnetsolutions/index.html#home](https://ramnetsolutions.github.io/Ramnetsolutions/index.html#home)  
 
 ## 🤝 Contributing  
 
@@ -64,5 +64,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🌐 Connect  
 
 - **Website**: [RamnetSolutions](https://ramnetsolutions.github.io/Ramnetsolutions/index.html#home)  
-- **Email**: [your-email@example.com](mailto:manikantaboda07@gmail.com)  
-- **GitHub**: [YourGitHubUsername](https://github.com/RamnetSolutions)  
+- **Email**: [manikantaboda07@gmail.com](mailto:manikantaboda07@gmail.com)  
+- **GitHub**: [Ramnetsolutions](https://github.com/Ramnetsolutions)  
